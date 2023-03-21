@@ -1,0 +1,38 @@
+.mainBg {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card1 {
+  border-radius: 15px;
+  background-color: #000000;
+  padding: 20px;
+}
+.card2 {
+  border-radius: 15px;
+  background-color: #ffffff;
+  padding: 20px;
+  border: solid 2px #000;
+}
+
+.head1 {
+  color: #fff;
+}
+.head2 {
+  color: #000;
+}
+.btn {
+  border: solid 2px #000;
+  border-radius: 8px;
+  background-color: #fff;
+  text-align: center;
+  padding: 8px 15px;
+  margin: 6px;
+}
+.center {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
